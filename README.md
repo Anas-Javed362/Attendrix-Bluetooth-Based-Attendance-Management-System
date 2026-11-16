@@ -126,14 +126,12 @@ Screenshots are available in the `screenshots/` folder and demonstrate the compl
   <img src="https://github.com/user-attachments/assets/48340ff4-107e-4f3c-8e28-d8814edc83bb" width="160" alt="01 Splash Screen"/>
   <img src="https://github.com/user-attachments/assets/062ceaac-9ca8-4f44-8802-e13b3a356efb" width="160" alt="02 Login Screen"/>
   <img src="https://github.com/user-attachments/assets/6faa6e20-df22-4a72-b090-c4c0cbe68c4d" width="160" alt="04 Permission Confirmation"/>
-  <img src="https://github.com/user-attachments/assets/ed90a774-ebf0-4629-99cc-b5005a03a7da" width="160" alt="05 Bluetooth Permission"/>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e1274cce-1c20-4e80-93af-a636a5efd12c" width="160" alt="07 Dashboard Before Scan"/>
   <img src="https://github.com/user-attachments/assets/ec7f0fa2-7d04-4178-b3e5-28a77b4bd2aa" width="160" alt="08 Scanning Screen"/>
   <img src="https://github.com/user-attachments/assets/6080cae5-941e-42c0-8d32-69a17a46d57f" width="160" alt="10 Paired Devices History"/>
-  <img src="https://github.com/user-attachments/assets/ab2c3c82-f46e-43e5-b8c8-12d18a290fe7" width="160" alt="11 Present Students"/>
 </p>
 
 ---
